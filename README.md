@@ -1,2 +1,2 @@
 # Wattson
-A program which purpose is to find accounts on different services online
+A program which purpose is to find accounts on different online services
