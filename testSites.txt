@@ -1,0 +1,20 @@
+#Comments are allowed as long as you put the # sign first
+#For the sake of testing only few URLs will be input at first, as to not wait every time
+#REMEMBER ABOUT THE WEB PROTOCOLS
+
+1. https://facebook.com
+2. https://google.com
+3. https://netflix.com/u/testAccountName
+4. https://www.netflix.com/pl/login
+5. qwer
+
+#Social Media:
+
+#Streaming Services:
+
+#Game Forums:
+
+#Formal/Working Enviroments:
+
+#Niches/Other:
+
